@@ -3,7 +3,7 @@
 <h2>MY TODOLIST</h2>
 <todo-input @additem="addTodoItem" @clearAll="clearAll"></todo-input>
 <todo-list :todoItem="todoItem" @reDel="removeDel"></todo-list>
-<todo-footer></todo-footer>
+<todo-footer>vvv</todo-footer>
  </div> 
 </template>
 
